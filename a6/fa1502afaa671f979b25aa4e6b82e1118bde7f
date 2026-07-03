@@ -1,0 +1,22 @@
+test/amd/test_sqtt_encoder.py
+  s_f6000ebfaf900f::t_30678b0b677b1e 97-106
+test/mockgpu/amd/emu.py
+  s_f6000ebfaf900f::t_41f7d3b398cc48 2261,2268
+  s_f6000ebfaf900f::t_973340935c1f7d 161,165,170-171,173-174,177-180,182,184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "a6fa1502afaa671f979b25aa4e6b82e1118bde7f",
+  "prompts": {},
+  "sessions": {
+    "s_f6000ebfaf900f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2289-6590-7813-99b2-e6082f3d3716",
+        "model": "gpt-5.5"
+      },
+      "human_author": "poonai <rbalajis25@gmail.com>"
+    }
+  }
+}
