@@ -1,0 +1,26 @@
+extra/sqtt/compare_mock_hw.py
+  s_3483f1b8e07209::t_1149601f363193 14-17
+  s_3483f1b8e07209::t_3568ab8ba19ed2 26
+  s_3483f1b8e07209::t_c1683f8adbe882 1-13,18-25,27-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "47eb23e26d9df4e83fa63e1d8ae6dee8fc4114e3",
+  "prompts": {},
+  "humans": {
+    "h_71f943311c1cfd": {
+      "author": "poonai <rbalajis25@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3483f1b8e07209": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1ce9-5c56-7141-9ee1-3c2d5c3dfa08",
+        "model": "gpt-5.5"
+      },
+      "human_author": "poonai <rbalajis25@gmail.com>"
+    }
+  }
+}
