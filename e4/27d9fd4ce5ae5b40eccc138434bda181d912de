@@ -1,0 +1,26 @@
+test/mockgpu/amd/emu.py
+  h_71f943311c1cfd 2239,2247-2251,2255,2257-2281,2288-2312
+test/amd/test_sqtt_encoder.py
+  s_3483f1b8e07209::t_a4dec3b750825f 33-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e427d9fd4ce5ae5b40eccc138434bda181d912de",
+  "prompts": {},
+  "humans": {
+    "h_71f943311c1cfd": {
+      "author": "poonai <rbalajis25@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3483f1b8e07209": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1ce9-5c56-7141-9ee1-3c2d5c3dfa08",
+        "model": "gpt-5.5"
+      },
+      "human_author": "poonai <rbalajis25@gmail.com>"
+    }
+  }
+}
