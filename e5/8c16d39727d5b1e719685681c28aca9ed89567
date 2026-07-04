@@ -1,0 +1,20 @@
+test/mockgpu/amd/emu.py
+  s_3483f1b8e07209::t_4cbe7dd31c55d0 2247,2249,2251-2262,2264-2298
+  s_3483f1b8e07209::t_7c2109359383b1 2263
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e58c16d39727d5b1e719685681c28aca9ed89567",
+  "prompts": {},
+  "sessions": {
+    "s_3483f1b8e07209": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1ce9-5c56-7141-9ee1-3c2d5c3dfa08",
+        "model": "gpt-5.5"
+      },
+      "human_author": "poonai <rbalajis25@gmail.com>"
+    }
+  }
+}
