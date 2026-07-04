@@ -1,0 +1,19 @@
+extra/sqtt/capture_rdna3_sqtt.py
+  s_3483f1b8e07209::t_bf4f2f119d3b4a 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0f2ecd28d3c80fb2a0553c6d8192b3380e5a033d",
+  "prompts": {},
+  "sessions": {
+    "s_3483f1b8e07209": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1ce9-5c56-7141-9ee1-3c2d5c3dfa08",
+        "model": "gpt-5.5"
+      },
+      "human_author": "poonai <rbalajis25@gmail.com>"
+    }
+  }
+}
